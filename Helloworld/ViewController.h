@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
-
+{
+    NSArray *priceArray,*targetArray,*dateArray,*imageArray;;
+}
 @end
-
